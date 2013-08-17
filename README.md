@@ -1,4 +1,4 @@
 Digoss
 ======
 
-Page digoss.github.io/Digoss
+Page http://digoss.github.io/Digoss
